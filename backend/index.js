@@ -16,7 +16,7 @@ app.use("/api/organiser",organiserRouter);
 app.use("/api/sponsor", sponsorRouter);
 
 async function main(){
-    await mongoose.connect("mongodb+srv://sprajan53:URr82v7bvSdKPNq8@cluster0.l8j8g.mongodb.net/virtual-event-app")
+    await mongoose.connect("")
     app.listen(3000);
     console.log("Listening on http://localhost:3000");
 }
