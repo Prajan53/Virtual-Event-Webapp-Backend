@@ -39,7 +39,7 @@ The Virtual Event Platform is a full-featured web application designed to suppor
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com.git
+   git clone https://github.com/Prajan53/Virtual-Event-Webapp-Backend.git
    cd Virtual-Event-Webapp-Backend
    ```
 
