@@ -1,5 +1,5 @@
 
-# Virtual Event Platform
+# Virtual Event Webapp Backend
 
 The Virtual Event Platform is a full-featured web application designed to support digital events and provide users with an interactive, online experience. This platform enables secure user access, sponsor booth management, real-time event tracking, and user insights, making it easy for event organizers to host engaging virtual events.
 
@@ -23,12 +23,10 @@ The Virtual Event Platform is a full-featured web application designed to suppor
 
 ## Tech Stack
 
-- **Frontend**: React
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Authentication**: JWT for secure, token-based login sessions
 - **Validation**: Zod for backend data validation
-- **Hosting**: Vercel for frontend deployment, GoDaddy for domain management
 
 ## Installation
 
@@ -41,8 +39,8 @@ The Virtual Event Platform is a full-featured web application designed to suppor
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/virtual-event-platform.git
-   cd virtual-event-platform
+   git clone https://github.com.git
+   cd Virtual-Event-Webapp-Backend
    ```
 
 2. **Install Backend Dependencies**
